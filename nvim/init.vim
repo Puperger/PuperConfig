@@ -27,7 +27,7 @@ syntax enable
 colorscheme dracula
 
 "lua
-lua require('puperger') "Custom Feline
+lua require('puperger')
 lua require('colorizer').setup()
 
 "Configure Nerdtree + Icons
