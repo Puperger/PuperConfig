@@ -1,0 +1,91 @@
+{
+    'kind':'calendar#calendarList',
+    'etag': '"p334ejnu7l2jvq0g"',
+    'nextSyncToken': 'CMjp38eop_0CEhZmeW5uLmtyZWJzZXJAZ21haWwuY29t',
+    'items':[
+        {
+            'kind': 'calendar#calendarListEntry',
+            'etag': '"1590756759034000"',
+            'id': 'e_2_de#weeknum@group.v.calendar.google.com',
+            'summary': 'Kalenderwochen',
+            'description': 'Kalenderwochen wöchentlich anzeigen',
+            'timeZone': 'Europe/Zurich',
+            'colorId': '7',
+            'backgroundColor': '#42d692',
+            'foregroundColor': '#000000',
+            'selected': True,
+            'accessRole': 'reader',
+            'defaultReminders': [],
+            'conferenceProperties': {
+                'allowedConferenceSolutionTypes': [
+                    'hangoutsMeet'
+                ]
+            }
+        },
+        {
+            'kind': 'calendar#calendarListEntry',
+            'etag': '"1659988197787000"',
+            'id': 'family02962285153118311620@group.calendar.google.com',
+            'summary': 'Familie',
+            'timeZone': 'UTC',
+            'colorId': '5',
+            'backgroundColor': '#ff7537',
+            'foregroundColor': '#000000',
+            'accessRole': 'writer',
+            'defaultReminders': [
+                {
+                    'method': 'popup',
+                    'minutes': 30
+                }
+            ],
+            'conferenceProperties': {
+                'allowedConferenceSolutionTypes': [
+                    'hangoutsMeet'
+                ]
+            }
+        },
+        {
+            'kind': 'calendar#calendarListEntry',
+            'etag': '"1659988767150000"',
+            'id': 'fynn.krebser@gmail.com',
+            'summary': 'fynn.krebser@gmail.com',
+            'timeZone': 'Europe/Zurich',
+            'colorId': '14',
+            'backgroundColor': '#9fe1e7',
+            'foregroundColor': '#000000',
+            'selected': True,
+            'accessRole': 'owner',
+            'defaultReminders': [
+                {
+                    'method': 'popup',
+                    'minutes': 30
+                }
+            ],
+            'notificationSettings': {
+                'notifications': [
+                    {
+                        'type': 'eventCreation',
+                        'method': 'email'
+                    },
+                    {
+                        'type': 'eventChange',
+                        'method': 'email'
+                    },
+                    {
+                        'type': 'eventCancellation',
+                        'method': 'email'
+                    },
+                    {
+                        'type': 'eventResponse',
+                        'method': 'email'
+                    }
+                ]
+            },
+            'primary': True,
+            'conferenceProperties': {
+                'allowedConferenceSolutionTypes': [
+                    'hangoutsMeet'
+                ]
+            }
+        },
+        {'kind': 'calendar#calendarListEntry', 'etag': '"1659988979429000"', 'id': 'specsnstats@gmail.com', 'summary': 'SpecsNStats (EST)', 'description': 'Stream Schedule and Upcoming Events. All events showing in Eastern Standard Time (Specs is in MST). YouTube Upload dates are highlighted in Orange', 'timeZone': 'America/Denver', 'colorId': '24', 'backgroundColor': '#a47ae2', 'foregroundColor': '#000000', 'accessRole': 'reader', 'defaultReminders': [], 'conferenceProperties': {'allowedConferenceSolutionTypes': ['hangoutsMeet']}}, {'kind': 'calendar#calendarListEntry', 'etag': '"1659989136081000"', 'id': 'de.ch#holiday@group.v.calendar.google.com', 'summary': 'Feiertage in der Schweiz', 'description': 'Feier- und Gedenktage in der Schweiz', 'timeZone': 'Europe/Zurich', 'colorId': '8', 'backgroundColor': '#16a765', 'foregroundColor': '#000000', 'accessRole': 'reader', 'defaultReminders': [], 'conferenceProperties': {'allowedConferenceSolutionTypes': ['hangoutsMeet']}}, {'kind': 'calendar#calendarListEntry', 'etag': '"1665655932048000"', 'id': 'addressbook#contacts@group.v.calendar.google.com', 'summary': 'Geburtstage', 'description': 'Geburtstage, Jahrestage und andere wichtige Termine aus Google Kontakte anzeigen lassen.', 'timeZone': 'Europe/Zurich', 'summaryOverride': 'Geburtstage', 'colorId': '13', 'backgroundColor': '#92e1c0', 'foregroundColor': '#000000', 'selected': True, 'accessRole': 'reader', 'defaultReminders': [], 'conferenceProperties': {'allowedConferenceSolutionTypes': ['hangoutsMeet']}}, {'kind': 'calendar#calendarListEntry', 'etag': '"1676716058367000"', 'id': 'o2eh0m9k5e40elr2ov1ebl3blu4oshcm@import.calendar.google.com', 'summary': 'fynn.krebser@timetable', 'timeZone': 'Europe/Berlin', 'summaryOverride': 'fynn.krebser@timetable', 'colorId': '11', 'backgroundColor': '#fbe983', 'foregroundColor': '#000000', 'selected': True, 'accessRole': 'reader', 'defaultReminders': [{'method': 'popup', 'minutes': 10}], 'conferenceProperties': {'allowedConferenceSolutionTypes': ['hangoutsMeet']}}]}
